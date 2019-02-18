@@ -6,6 +6,6 @@ import HeaderContainer from './components/HeaderComponents/HeaderContainer';
 import CardContainer from './components/CardComponents/CardContainer';
 
 
-// ReactDOM.render(<App />, document.getElementById('root'));
-ReactDOM.render(<HeaderContainer />, document.getElementById('header'));
-ReactDOM.render(<CardContainer />, document.getElementById('card'));
+ReactDOM.render(<App />, document.getElementById('root'));
+// ReactDOM.render(<HeaderContainer />, document.getElementById('header'));
+// ReactDOM.render(<CardContainer />, document.getElementById('card'));
