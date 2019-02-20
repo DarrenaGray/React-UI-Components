@@ -13,14 +13,19 @@
     margin-left: 0px
 } */
 
+.calc-buttons {
+    max-width: 336px;
+    margin: -21px 0;
+}
+
 .calc-buttons .number-buttons {
     display: flex;
     flex-wrap: wrap;
-    max-width: 336px;
+    
 }
 
 .number-buttons .box:nth-child(1){
-    /* background-color: red; */
+    background-color: red;
     width: 110px;
     height: 95px;
     border: 1px solid black;
@@ -84,9 +89,25 @@
 }
 
 .number-buttons .box:nth-child(9) {
-    /* background-color: green; */
+    background-color: green;
     width: 110px;
     height: 95px;
     border: 1px solid black;
     /* margin: 0 auto; */
+}
+
+.zero-btn {
+    width: 100%;
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 334px;
+    height: 95px;
+}
+
+.clear-btn {
+    width: 100%;
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 334px;
+    height: 86px;
 }
