@@ -6,16 +6,22 @@
     padding: 5px 0px;
 }
 
+
+
 .header-container  h1 {
     /* border: 1px solid red; */
-    margin: 0px auto;
+    margin: 0px 7px;
     font-size: 20px;
 }
 
+.header-container span {
+    font-size: 15px;
+    color: gray;
+}
 .header-container p {
     /* border: 1px solid purple; */
     padding: 3px;
-    margin: 0 auto;
+    margin: 0 5px;
     font-size: 14px;
 }
 
@@ -23,9 +29,15 @@
     /* border: 1px solid green; */
 }
 
+.header-container img {
+/* background: #A0011E;  Figure out how to change image color using webkit/filters */ 
+}
+
 .lambda-logo {
     width: 50px;
     height: 50px;
     margin: 0 3px;
     /* border: 1px solid orange; */
+    /* filter: none; Figure out how to change image color using webkit/filters */
+    
 }

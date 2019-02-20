@@ -3,7 +3,7 @@
 .card-content {
     /* border: 1px solid brown; */
     padding: 10px;
-    margin: 0 0 0 65px;
+    margin: 0 0 0 58px;
 }
 .card-banner {
     width: 500px;
@@ -16,7 +16,7 @@
 .card-text {
     padding: 10px;
     border: 1px solid lightgray;
-    margin: -5px 15px 0 0;
+    margin: -5px 22px 0 0;
 }
 
 .card-text h2 {

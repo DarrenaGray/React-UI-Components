@@ -19,10 +19,10 @@ const App = () => {
           inside of this file in order to make them work.
         </strong>
       </p> */}
-    <div class="header">
+    <div className="header">
       <HeaderConatainer />
     </div>
-    <div class="card">
+    <div className="card">
       <CardContainer />
     </div>
 
