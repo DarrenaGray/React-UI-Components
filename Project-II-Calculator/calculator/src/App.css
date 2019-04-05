@@ -1,0 +1,9 @@
+/* Calculator Outline */
+
+#root {
+    border: 1px solid black;
+    max-width: 455px;
+    height: 600px;
+    width: 100%;
+    margin: 10px auto;
+}

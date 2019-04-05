@@ -1,0 +1,14 @@
+.calculator-display {
+    border: 1px solid red;
+    margin: 0 auto 20px auto;
+    height: 125px;
+    background: black;
+
+}
+
+.calculator-display p {
+    font-size: 60px;
+    text-align: right;
+    color: white;
+    margin: 40px 15px 0 0;
+}
